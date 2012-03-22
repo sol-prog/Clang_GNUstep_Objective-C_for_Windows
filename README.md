@@ -4,6 +4,11 @@ This is a Windows 32 bits binary for GNUstep and last version of Clang. This fil
 
 Installation procedure:
 
+**Clone (download) the archive on your machine with (you will need Git on your Windows machine):**
+
+git clone git://github.com/sol-prog/Clang_GNUstep_Objective-C_for_Windows.git
+
+
 1. Extract the archive on your C driver. From now on I'll suppose you have a new folder named GNUstep on your C drive. This is a 7z archive, you can download 7zip for free from:
 
 [http://www.7-zip.org/](http://www.7-zip.org/)
