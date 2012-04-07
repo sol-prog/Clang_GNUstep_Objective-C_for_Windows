@@ -1,4 +1,4 @@
-This is a Windows 32 bits binary for GNUstep and last version of Clang. This file is provided for your convenience, if you prefer for compile this yourself visit the project webpage:
+This is a Windows 32 bits binary for GNUstep and last version of Clang. This file is provided for your convenience, if you prefer to compile this yourself visit the project webpage:
 
 [http://solarianprogrammer.com/2012/03/21/clang-objective-c-windows/](http://solarianprogrammer.com/2012/03/21/clang-objective-c-windows/)
 
