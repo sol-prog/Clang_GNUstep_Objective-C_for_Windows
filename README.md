@@ -13,7 +13,7 @@ git clone git://github.com/sol-prog/Clang_GNUstep_Objective-C_for_Windows.git
 
 [http://www.7-zip.org/](http://www.7-zip.org/)
 
-2. Install Python 2.7.2 from www.python.org.
+2. Install Python 2.7.4 from www.python.org.
 
 3. Add a these entries to your Windows Path:
 
